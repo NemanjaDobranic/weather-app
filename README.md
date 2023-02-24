@@ -1,4 +1,4 @@
-##Weather App
+## Weather App
 
 Typhead for searching and selecting city with population over million
 
